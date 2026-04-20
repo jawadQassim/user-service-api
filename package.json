@@ -1,0 +1,16 @@
+{
+  "name": "user-service-test-task",
+  "version": "1.0.0",
+  "description": "User management service built with Node.js HTTP and TypeScript",
+  "type": "module",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "node --experimental-strip-types src/server.ts",
+    "build": "node scripts/build.mjs",
+    "start": "node --experimental-strip-types src/server.ts",
+    "seed": "node --experimental-strip-types src/db/seed.ts"
+  },
+  "engines": {
+    "node": ">=22.6.0"
+  }
+}

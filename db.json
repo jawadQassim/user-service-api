@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "8L-K44kgT85jXAAY6xbHG",
+      "fullName": "System Admin",
+      "birthDate": "1990-01-01",
+      "email": "admin@example.com",
+      "passwordHash": "scrypt$63b4b91e8caef595b1b49f63cacb06b1$b3503b4eed5019ff94932396a21d4bfa98b81b543dab55ef3b4dd9edae77e9b723ee59411a0834c1c796fb205b028dfad0d47cfbd34550b8616bb7dd0ab70138",
+      "role": "ADMIN",
+      "isActive": true,
+      "createdAt": "2026-04-20T17:04:17.660Z",
+      "updatedAt": "2026-04-20T20:23:12.332Z"
+    },
+    {
+      "id": "183b542f-ba21-499b-bdc7-f796626ed1aa",
+      "fullName": "Admin Check",
+      "birthDate": "1995-05-05",
+      "email": "admincheck1776715158@example.com",
+      "passwordHash": "scrypt$76bb00a1bda55c32462ff944736e8535$304379405247a488bca7212f4db98bbb6acceb07457b4f264cdf5c1652927c676c74e0b2e29cdc34cc73472cd07d86ad572f471f606acc7daddde32a246ed104",
+      "role": "ADMIN",
+      "isActive": false,
+      "createdAt": "2026-04-20T19:59:18.891Z",
+      "updatedAt": "2026-04-20T19:59:19.079Z"
+    },
+    {
+      "id": "cae151b9-7d5d-40e5-b3cd-fc6e974aaf09",
+      "fullName": "Review User",
+      "birthDate": "1999-01-01",
+      "email": "review-7ab88c4e@example.com",
+      "passwordHash": "scrypt$082253290beca3431e8a2a994ddec7ea$62256f917e2c7b8863b58837111cedcd98083ba116f1770e95d9a178ca7eaf37e142c3d4953878ec4cd22a0425324bd00e0fbe3017a86adcfe9ec1743107ea35",
+      "role": "USER",
+      "isActive": false,
+      "createdAt": "2026-04-20T20:07:17.156Z",
+      "updatedAt": "2026-04-20T20:07:17.365Z"
+    },
+    {
+      "id": "2f88d8c1-0d05-4a6c-a57b-ee8db947a517",
+      "fullName": "Final User",
+      "birthDate": "1998-02-03",
+      "email": "final-6ef135c2@example.com",
+      "passwordHash": "scrypt$27f19c7c6f51fd92ccc2ac61683af31d$5be43b912942e02a1830de5bc78b76886c5eb36de400542b33f5675319944c67bd844aa518fa8326f03ead8a63f12490c75e84d7e02a74195a452e5d291009e5",
+      "role": "USER",
+      "isActive": true,
+      "createdAt": "2026-04-20T20:23:12.349Z",
+      "updatedAt": "2026-04-20T20:23:12.585Z"
+    },
+    {
+      "id": "772a2532-3129-4ada-95a5-feb3b587351b",
+      "fullName": "Permission User",
+      "birthDate": "1997-07-07",
+      "email": "perm-6b9712df@example.com",
+      "passwordHash": "scrypt$23a548619b0ec1965e118a2856b99413$fbb5e477a8756dad4d09494a0fb068bdc19023d64b6caf78ed12ee282dceb3e56eed17c708f00c4442e31e48accd59b6b3f89a6453a118cb8fa5ee42839472fc",
+      "role": "USER",
+      "isActive": true,
+      "createdAt": "2026-04-20T20:23:25.413Z",
+      "updatedAt": "2026-04-20T20:23:25.413Z"
+    }
+  ]
+}
