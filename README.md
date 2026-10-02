@@ -1,4 +1,4 @@
-# User Service Test Task
+# User Service API
 
 REST API for user management built with **Node.js HTTP + TypeScript**.
 
@@ -35,6 +35,7 @@ src/
 ## Setup
 
 ```bash
+npm ci
 cp .env.example .env
 npm run seed
 npm run dev
@@ -48,6 +49,8 @@ npm start
 ```
 
 ## Default Admin
+
+These seeded credentials are for local development only. Replace them before exposing a deployment to other users.
 
 - Email: `admin@example.com`
 - Password: `Admin12345`
